@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sonawane</h1>
-<h3 align="center">I am studing in Cloud Computing</h3>
+<h3 align="center">I am studing Cloud Computing</h3>
 
 - 🌱 I’m currently learning **AWS**
 
